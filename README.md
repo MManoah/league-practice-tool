@@ -3,7 +3,7 @@
 This application allows the user to add more bots to the practice tool which only allows one bot.
 
 ## How to install 
-[Click Here To Download Application](https://github.com/MManoah/league-practice-tool/releases/download/V.1/League.Practice.Tool.Installer.msi)
+[Click Here To Download Application](https://github.com/MManoah/league-practice-tool/releases/download/V.1/League.Practice.Tool.zip)
 
 [Releases](https://github.com/MManoah/league-practice-tool/releases)
 
