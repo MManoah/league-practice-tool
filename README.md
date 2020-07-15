@@ -13,7 +13,7 @@ This application allows the user to add more bots to the practice tool which onl
 
 ## Built With
 
-* [Lcu Sharp](https://github.com/bryanhitc/lcu-sharp) - Accessing the LCU API
+* [LCU Sharp](https://github.com/bryanhitc/lcu-sharp) - Accessing the LCU API
 * C#
 
 ## Riot Games
