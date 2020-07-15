@@ -1,4 +1,4 @@
-# League of Legends Practice Tool
+# League of Legends Practice Tool Editor
 
 This application allows the user to add more bots to the practice tool which only allows one bot.
 
