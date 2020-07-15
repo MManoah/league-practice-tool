@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "League Practice Tool", "League Practice Tool\League Practice Tool.csproj", "{024CE36D-2FF2-4C01-8579-E072C779C71B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "League Practice Tool Installer", "League Practice Tool Installer\League Practice Tool Installer.vdproj", "{317A8B6D-8624-44CA-8D41-37B6B11385C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{024CE36D-2FF2-4C01-8579-E072C779C71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{024CE36D-2FF2-4C01-8579-E072C779C71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{024CE36D-2FF2-4C01-8579-E072C779C71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{024CE36D-2FF2-4C01-8579-E072C779C71B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{317A8B6D-8624-44CA-8D41-37B6B11385C5}.Debug|Any CPU.ActiveCfg = Debug
+		{317A8B6D-8624-44CA-8D41-37B6B11385C5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A416EC32-196F-4EB6-9A67-1EB178B6BAF4}
+	EndGlobalSection
+EndGlobal
