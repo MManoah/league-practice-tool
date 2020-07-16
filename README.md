@@ -5,7 +5,7 @@ This application allows the user to add more bots to the practice tool which onl
 ## How to install 
 [Click Here To Download Application](https://github.com/MManoah/league-practice-tool/releases/download/V.1/League.Practice.Tool.zip)
 
-*This requires .NET Framework 4.7.2*
+*This requires [.NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/net472)*
 
 [Releases](https://github.com/MManoah/league-practice-tool/releases)
 
